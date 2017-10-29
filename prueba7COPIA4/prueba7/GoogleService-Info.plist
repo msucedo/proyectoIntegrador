@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>323780079482-rbev5422qhebkfrc3isdgp3o6sha1f5s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.323780079482-rbev5422qhebkfrc3isdgp3o6sha1f5s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAz6Lo2Wz863qlRnagnUHvVD1f-lwBDB50</string>
+	<key>GCM_SENDER_ID</key>
+	<string>323780079482</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mariorubensaucedo.prueba7</string>
+	<key>PROJECT_ID</key>
+	<string>integrador1-12419</string>
+	<key>STORAGE_BUCKET</key>
+	<string>integrador1-12419.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:323780079482:ios:85f3c69f68c4680c</string>
+	<key>DATABASE_URL</key>
+	<string>https://integrador1-12419.firebaseio.com</string>
+</dict>
+</plist>
